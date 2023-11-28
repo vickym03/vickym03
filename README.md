@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickym03" alt="vickym03" /></a> </p>
 
-- 🌱 I’m currently learning **Rust,Angular**
+- 🌱 I’m currently learning **Google Cloud Platform (GCP)**
 
 - 📫 How to reach me **vkym123@outlook.com**
 
